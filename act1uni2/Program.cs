@@ -15,7 +15,7 @@ do
     //Menú
     //Console.Clear();
     Console.WriteLine("Gestión de firewalls\n");
-
+    //Console.WriteLine("CalalpaGus\n");
     Console.WriteLine("Selecciona el  número deseado\n");
     Console.WriteLine("1.- Crear Firewall");
     Console.WriteLine("2.- Activar/desactivar Firewall");
@@ -94,7 +94,7 @@ do
 
             while (subCont)
             {
-                
+                Console.Clear();
                 Console.WriteLine("Activar/desactivar Firewall\n");
                 Console.WriteLine("Selecciona el  número deseado\n");
                 Console.WriteLine("1.- Activar/desactivar Firewall Hardware");
@@ -318,6 +318,7 @@ do
 
                         break;
                     case "5":
+                        Console.Clear();
                         subCont = false;
                         Console.WriteLine("Saliendo del programa");
                         break;
