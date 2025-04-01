@@ -4,7 +4,7 @@ A console program that simulates a firewall management system, focusing on the u
 
 ## Class Diagram
 
-<img src="img/diaClass.png" alt="Diagram" width="500">
+<img src="Img/diaClass.png" alt="Diagram" width="500">
 
 ## Features
 - The program is designed using OOP concepts such as encapsulation, inheritance, and polymorphism to ensure modularity and scalability.
@@ -16,39 +16,39 @@ A console program that simulates a firewall management system, focusing on the u
 ## How to Use
 * The menu shows the options of "Firewall Management"
 
-<img src="img/menu.png" alt="Principal" width="500">
+<img src="Img/menu.png" alt="Principal" width="500">
 
 1. Here you can create a Firewall type: Hardware, Software, Advanced or Intelligent.
 
-<img src="img/menu1.1.png" alt="Create" width="500">
+<img src="Img/menu1.1.png" alt="Create" width="500">
 
 - Enter the hardware firewall information
 
-<img src="img/CreaHard.png" alt="Create Hardware" width="500">
+<img src="Img/CreaHard.png" alt="Create Hardware" width="500">
 
 - Enter the software firewall information
 
-<img src="img/CreaSoft.png" alt="Create Software" width="500">
+<img src="Img/CreaSoft.png" alt="Create Software" width="500">
 
 - Enter the hardware Advanced information
 
-<img src="img/CreaAdva.png" alt="Create Advanced" width="500">
+<img src="Img/CreaAdva.png" alt="Create Advanced" width="500">
 
 - Enter the hardware Intelligent information
 
-<img src="img/CreaIntel.png" alt="Create Intelligent" width="500">
+<img src="Img/CreaIntel.png" alt="Create Intelligent" width="500">
 
 2. Toggle the firewall status between on and off.
 
-<img src="img/menu2.1.png" alt="Activate or deativate" width="500">
+<img src="Img/menu2.1.png" alt="Activate or deativate" width="500">
 
 3. Add a rule for hardware firewall
 
-<img src="img/menu3.1.png" alt="Add a rule" width="500">
+<img src="Img/menu3.1.png" alt="Add a rule" width="500">
 
 4. Shows the status of the Firewalls
 
-<img src="img/menu4.1.png" alt="Status" width="500">
+<img src="Img/menu4.1.png" alt="Status" width="500">
 
 ## Built With
 - C#
